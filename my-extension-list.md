@@ -3,8 +3,6 @@
 - Space Ocean Kit Refine
 - GitHub Theme
 
----
-
 # Plugins
 
 - Live Server
@@ -30,14 +28,10 @@
 - HTML End Tag Labels
 - vscode-pets
 
----
-
 # Debugger
 
 - Debugger for Firefox
 - Debugger for Chrome
-
----
 
 # Plugins for Sass
 
@@ -45,16 +39,12 @@
 - SCSS IntelliSense
 - SCSS Formatter
 
----
-
 # Plugins for Frameworks
 
 - Tailwind CSS IntelliSense
 - Tailwind IntelliSense Plus SCSS
 - Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro
 - Bootstrap 5 Quick Snippets
-
----
 
 # Git
 
