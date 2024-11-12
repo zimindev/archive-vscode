@@ -1,8 +1,8 @@
-#Themes:
+##################################-Themes-#####################################
 Space Ocean Kit Refine
 GitHub Theme
 
-#Plugins:
+##################################-Plugins-#####################################
 Live Server
 Auto Complete Tag
 Bracket Pair Color DLW
@@ -26,16 +26,16 @@ ftp-simpl
 HTML End Tag Labels
 vscode-pets
 
-#Debugger:
+##################################-Debugger-#####################################
 Debugger for Firefox
 Debugger for Chrome
 
-#Plugins Sass:
+##################################-Plugins Sass-#################################
 Live Sass Compiler
 SCSS IntelliSense
 SCSS Formatter
 
-#Plugins Frameworks:
+##################################-Plugins Frameworks-###########################
 Tailwind CSS IntelliSense
 Tailwind IntelliSense Plus SCSS
 Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro
