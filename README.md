@@ -1,1 +1,1 @@
-# vscode-plugins-all
+# vscode-extension-all
