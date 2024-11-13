@@ -1,9 +1,9 @@
-# Themes
+## Themes
 
 - Space Ocean Kit Refine
 - GitHub Theme
 
-# Plugins
+## Plugins
 
 - Live Server
 - Auto Complete Tag
@@ -28,24 +28,24 @@
 - HTML End Tag Labels
 - vscode-pets
 
-# Debugger
+## Debugger
 
 - Debugger for Firefox
 - Debugger for Chrome
 
-# Plugins for Sass
+## Plugins for Sass
 
 - Live Sass Compiler
 - SCSS IntelliSense
 - SCSS Formatter
 
-# Plugins for Frameworks
+## Plugins for Frameworks
 
 - Tailwind CSS IntelliSense
 - Tailwind IntelliSense Plus SCSS
 - Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro
 - Bootstrap 5 Quick Snippets
 
-# Git
+## Git
 
 - GitLens — Git supercharged
